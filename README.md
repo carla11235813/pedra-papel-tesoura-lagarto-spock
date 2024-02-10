@@ -74,7 +74,7 @@ Este jogo foi implementado `Python` usando a biblioteca `Tkinter` para criar uma
 ![Static Badge](https://img.shields.io/badge/tkinter-%237F27FF?style=for-the-badge&label=biblioteca)
 
 ## Acesso ao projeto
-Você pode acessar o código fonte do projeto ou baixá-lo.
+Você pode acessar o [código fonte](https://github.com/carla11235813/pedra-papel-tesoura-lagarto-spock/) do projeto ou [baixá-lo](https://github.com/carla11235813/pedra-papel-tesoura-lagarto-spock/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 Após baixar e extrair o projeto
