@@ -93,7 +93,7 @@ Após baixar e extrair o projeto
   python jogo.py
   ```
   
-* Depois de executar o arquivo, observe a saída no terminal. Dependendo do que o script faz, ele pode produzir algum tipo de saída na tela.
+* Depois de executar o arquivo, observe a saída no terminal. Dependendo da sua jogada, ele produz uma saída na tela.
 
 ## Licença
 
