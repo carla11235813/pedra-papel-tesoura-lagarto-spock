@@ -1,4 +1,4 @@
-# Jogo pedra-papel-tesoura-lagarto-spock &#129299;
+# Jogo pedra-papel-tesoura-lagarto-spock &#129299;&#x1F596;
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=green&style=for-the-badge" >
@@ -70,7 +70,6 @@ Este jogo foi implementado `Python` usando a biblioteca `Tkinter` para criar uma
 ## Tecnologias utilizadas
 
 ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFD448) 
-
 ![Static Badge](https://img.shields.io/badge/tkinter-%237F27FF?style=for-the-badge&label=biblioteca)
 
 ## Acesso ao projeto
